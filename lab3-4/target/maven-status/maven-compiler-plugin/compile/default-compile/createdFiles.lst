@@ -1,0 +1,4 @@
+com\hendisantika\springbootthymeleafpostgres\controller\StudentController.class
+com\hendisantika\springbootthymeleafpostgres\entity\Student.class
+com\hendisantika\springbootthymeleafpostgres\repository\StudentRepository.class
+com\hendisantika\springbootthymeleafpostgres\SpringbootThymeleafPostgresApplication.class
